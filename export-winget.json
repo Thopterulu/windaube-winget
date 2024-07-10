@@ -1,0 +1,125 @@
+{
+        "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+        "CreationDate" : "2024-07-10T14:27:42.170-00:00",
+        "Sources" :
+        [
+                {
+                        "Packages" :
+                        [
+                                {
+                                        "PackageIdentifier" : "JGraph.Draw"
+                                },
+                                {
+                                        "PackageIdentifier" : "SteelSeries.GG"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+                                },
+                                {
+                                        "PackageIdentifier" : "Google.GoogleDrive"
+                                },
+                                {
+                                        "PackageIdentifier" : "Nvidia.GeForceExperience"
+                                },
+                                {
+                                        "PackageIdentifier" : "Nvidia.PhysX"
+                                },
+                                {
+                                        "PackageIdentifier" : "Google.Chrome.EXE"
+                                },
+                                {
+                                        "PackageIdentifier" : "DominikReichl.KeePass"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+                                },
+                                {
+                                        "PackageIdentifier" : "OBSProject.OBSStudio"
+                                },
+                                {
+                                        "PackageIdentifier" : "Valve.Steam"
+                                },
+                                {
+                                        "PackageIdentifier" : "Ubisoft.Connect"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+                                },
+                                {
+                                        "PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.XNARedist"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
+                                },
+                                {
+                                        "PackageIdentifier" : "OpenWhisperSystems.Signal"
+                                },
+                                {
+                                        "PackageIdentifier" : "Discord.Discord"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.OneDrive"
+                                },
+                                {
+                                        "PackageIdentifier" : "ItchIo.Itch"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.PowerToys"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VisualStudioCode"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.AppInstaller"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.DevHome"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.WindowsTerminal"
+                                }
+                        ],
+                        "SourceDetails" :
+                        {
+                                "Argument" : "https://cdn.winget.microsoft.com/cache",
+                                "Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                                "Name" : "winget",
+                                "Type" : "Microsoft.PreIndexed.Package"
+                        }
+                }
+        ],
+        "WinGetVersion" : "1.8.1791"
+}
