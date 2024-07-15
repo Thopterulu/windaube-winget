@@ -1,6 +1,6 @@
 {
         "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-        "CreationDate" : "2024-07-10T14:27:42.170-00:00",
+        "CreationDate" : "2024-07-15T16:06:09.488-00:00",
         "Sources" :
         [
                 {
@@ -8,6 +8,12 @@
                         [
                                 {
                                         "PackageIdentifier" : "JGraph.Draw"
+                                },
+                                {
+                                        "PackageIdentifier" : "NexusMods.Vortex"
+                                },
+                                {
+                                        "PackageIdentifier" : "Git.Git"
                                 },
                                 {
                                         "PackageIdentifier" : "SteelSeries.GG"
@@ -46,6 +52,9 @@
                                         "PackageIdentifier" : "Ubisoft.Connect"
                                 },
                                 {
+                                        "PackageIdentifier" : "WiresharkFoundation.Wireshark"
+                                },
+                                {
                                         "PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
                                 },
                                 {
@@ -82,7 +91,13 @@
                                         "PackageIdentifier" : "Discord.Discord"
                                 },
                                 {
+                                        "PackageIdentifier" : "JernejSimoncic.Wget"
+                                },
+                                {
                                         "PackageIdentifier" : "Microsoft.OneDrive"
+                                },
+                                {
+                                        "PackageIdentifier" : "Schniz.fnm"
                                 },
                                 {
                                         "PackageIdentifier" : "ItchIo.Itch"
@@ -92,6 +107,9 @@
                                 },
                                 {
                                         "PackageIdentifier" : "Microsoft.VisualStudioCode"
+                                },
+                                {
+                                        "PackageIdentifier" : "Canonical.Ubuntu.2204"
                                 },
                                 {
                                         "PackageIdentifier" : "Microsoft.AppInstaller"
@@ -121,5 +139,5 @@
                         }
                 }
         ],
-        "WinGetVersion" : "1.8.1791"
+        "WinGetVersion" : "1.8.1911"
 }
