@@ -1,143 +1,155 @@
 {
-        "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-        "CreationDate" : "2024-07-15T16:06:09.488-00:00",
-        "Sources" :
-        [
-                {
-                        "Packages" :
-                        [
-                                {
-                                        "PackageIdentifier" : "JGraph.Draw"
-                                },
-                                {
-                                        "PackageIdentifier" : "NexusMods.Vortex"
-                                },
-                                {
-                                        "PackageIdentifier" : "Git.Git"
-                                },
-                                {
-                                        "PackageIdentifier" : "SteelSeries.GG"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
-                                },
-                                {
-                                        "PackageIdentifier" : "Google.GoogleDrive"
-                                },
-                                {
-                                        "PackageIdentifier" : "Nvidia.GeForceExperience"
-                                },
-                                {
-                                        "PackageIdentifier" : "Nvidia.PhysX"
-                                },
-                                {
-                                        "PackageIdentifier" : "Google.Chrome.EXE"
-                                },
-                                {
-                                        "PackageIdentifier" : "DominikReichl.KeePass"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
-                                },
-                                {
-                                        "PackageIdentifier" : "OBSProject.OBSStudio"
-                                },
-                                {
-                                        "PackageIdentifier" : "Valve.Steam"
-                                },
-                                {
-                                        "PackageIdentifier" : "Ubisoft.Connect"
-                                },
-                                {
-                                        "PackageIdentifier" : "WiresharkFoundation.Wireshark"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
-                                },
-                                {
-                                        "PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.XNARedist"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
-                                },
-                                {
-                                        "PackageIdentifier" : "OpenWhisperSystems.Signal"
-                                },
-                                {
-                                        "PackageIdentifier" : "Discord.Discord"
-                                },
-                                {
-                                        "PackageIdentifier" : "JernejSimoncic.Wget"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.OneDrive"
-                                },
-                                {
-                                        "PackageIdentifier" : "Schniz.fnm"
-                                },
-                                {
-                                        "PackageIdentifier" : "ItchIo.Itch"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.PowerToys"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VisualStudioCode"
-                                },
-                                {
-                                        "PackageIdentifier" : "Canonical.Ubuntu.2204"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.AppInstaller"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.DevHome"
-                                },
-                                {
-                                        "PackageIdentifier" : "Microsoft.WindowsTerminal"
-                                }
-                        ],
-                        "SourceDetails" :
-                        {
-                                "Argument" : "https://cdn.winget.microsoft.com/cache",
-                                "Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
-                                "Name" : "winget",
-                                "Type" : "Microsoft.PreIndexed.Package"
-                        }
-                }
-        ],
-        "WinGetVersion" : "1.8.1911"
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2024-10-13T01:46:49.080-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "JGraph.Draw"
+				},
+				{
+					"PackageIdentifier" : "NexusMods.Vortex"
+				},
+				{
+					"PackageIdentifier" : "GIMP.GIMP"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "Hex-Rays.IDA.Free"
+				},
+				{
+					"PackageIdentifier" : "SteelSeries.GG"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "Inkscape.Inkscape"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "Google.GoogleDrive"
+				},
+				{
+					"PackageIdentifier" : "calibre.calibre"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier" : "Brave.Brave"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome.EXE"
+				},
+				{
+					"PackageIdentifier" : "DominikReichl.KeePass"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Ubisoft.Connect"
+				},
+				{
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier" : "OpenWhisperSystems.Signal"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "JernejSimoncic.Wget"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Schniz.fnm"
+				},
+				{
+					"PackageIdentifier" : "ItchIo.Itch"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.2204"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DevHome"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.8.1911"
 }
