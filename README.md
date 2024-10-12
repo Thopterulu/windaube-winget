@@ -5,6 +5,5 @@ mes apps
 
 
 
-https://betterdiscord.app/
 
 
