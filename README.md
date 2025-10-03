@@ -1,9 +1,3 @@
-# windows-apps
-mes apps
+# I use windaube btw
 
-à installer avec winget en powershell administrateur
-
-
-
-
-
+kekw
